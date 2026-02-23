@@ -19,7 +19,7 @@ An implementation of **LLaMA 2** in PyTorch—transformer architecture, training
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/llama2_from_scratch.git
+git clone https://github.com/Aryamann27/LLama2-from-scratch-with-Speculative-Decoding.git
 cd llama2_from_scratch
 
 # Create virtual environment (recommended)
