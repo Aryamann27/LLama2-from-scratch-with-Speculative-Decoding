@@ -1,6 +1,6 @@
 # LLaMA 2 From Scratch
 
-A minimal, educational implementation of **LLaMA 2** in PyTorch—transformer architecture, training loop, inference, and **speculative decoding**—without relying on Hugging Face model code.
+An implementation of **LLaMA 2** in PyTorch—transformer architecture, training loop, inference, and **speculative decoding**—without relying on Hugging Face model code.
 
 ## Features
 
